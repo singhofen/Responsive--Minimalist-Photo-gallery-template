@@ -1,0 +1,23 @@
+/*photo grid html*/
+
+
+img{
+   width: 30%;
+   float: left;
+   margin: 1.66%;
+}
+
+p {
+   font-family: Raleway;
+   margin-left: 1.66;
+   font-size: 25px;
+   font-weight: 900;
+   border-bottom: 2px solid grey;
+   padding-bottom: 20px;
+   width: 30%;
+}
+footer {
+   text-align: center;
+   color: black;
+}
+
