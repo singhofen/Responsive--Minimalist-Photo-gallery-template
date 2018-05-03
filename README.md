@@ -8,3 +8,8 @@ Responsive -Minimalist Photo gallery template Free for personal use/modification
 ![image](https://user-images.githubusercontent.com/23155302/39593399-a136fa5e-4ed7-11e8-8bf9-2a80950d1c42.png)
 
 ![image](https://user-images.githubusercontent.com/23155302/39593426-b1e69bac-4ed7-11e8-8008-10efaf864635.png)
+
+Mobile Veiw
+
+![image](https://user-images.githubusercontent.com/23155302/39593528-0b78cdde-4ed8-11e8-8abe-b645c502c97f.png)
+
